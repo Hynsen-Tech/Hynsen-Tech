@@ -4,6 +4,6 @@
 
 💻 **Web & Mobile Developer** passionate about creating fluid and native user experiences. Expert in **Flutter** and **Vue.js**, with a strong focus on best practices and the latest technologies.
 
-🎬 **Content Creator** for my YouTube channel and Blog dedicated to all things hi-fi. From beginner's guides to in-depth reviews, we cover it all.
+🎬 **Content Creator** for my YouTube channel and Blog dedicated to all things Hi-Fi. From beginner's guides to in-depth reviews, we cover it all.
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Hynsen-Tech&repo=github-visitors-badge&countColor=%237B1E7A)
