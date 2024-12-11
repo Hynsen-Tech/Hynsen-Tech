@@ -1,5 +1,4 @@
-**👋 Hi there,**  
-**I'm Silvio**
+**👋 Hi there, here is Silvio**
 
 🔬 Currently, I’m Founder, Web & Mobile Developer at **Hynsen Web Agency**. I'm also a content creator for **Hynsen Technology**.
 
